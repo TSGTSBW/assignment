@@ -12,3 +12,15 @@ body{
 a{
   text-decoration: none;
 }
+.margin{
+  margin-top: 30%;
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 68%;
+}
+.margin2{
+  margin-top: 30%;
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 44%;
+}
